@@ -20,3 +20,6 @@ Mradul Paliwal
 <a href="https://www.instagram.com/mradul.005/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <a href="https://github.com/seyus"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
