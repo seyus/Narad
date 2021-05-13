@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "920449797575",
+    "project_id": "narad-72021",
+    "storage_bucket": "narad-72021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920449797575:android:6d0ee24983c64853235de2",
+        "android_client_info": {
+          "package_name": "com.mrgod.narad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920449797575-lfr6oqn77hcu667io6kuarthl5kf1hhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrgod.narad",
+            "certificate_hash": "03abdeae911f7b4fa16bafebc47c98a24fca3cc2"
+          }
+        },
+        {
+          "client_id": "920449797575-sinngpt61qk7fp0fp56b3806dt8seodd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQDdvYmURvAYdSribRn5nSAdOD5pzv8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920449797575-sinngpt61qk7fp0fp56b3806dt8seodd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
